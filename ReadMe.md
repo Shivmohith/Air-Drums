@@ -34,7 +34,7 @@ If the center lies in the region above the image of an instrument, then the corr
 
 ### Output
 
-![](Images/live-drumset-frame)
+![](Images/live-drumset-frame.png)
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
