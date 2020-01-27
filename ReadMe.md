@@ -32,5 +32,9 @@ If the center lies in the region above the image of an instrument, then the corr
 
 ![](Images/flowchart.png)
 
+### Output
+
+![](Images/live-drumset-frame)
+
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
