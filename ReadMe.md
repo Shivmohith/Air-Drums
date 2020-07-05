@@ -3,7 +3,7 @@ This project was done during the months of february and march in 2018.
 
 ### Description
 
-This project involves creating a virtual drum system that can be played using a webcam and a computer system alone and the program I created tracks two drumsticks, with Yellow and Green colored ball attached to the drumsticks, through live webcam video and plays sounds based on simulated air-drumming “hits”.
+This project involves creating a virtual drum system that can be played using a webcam and a computer system alone and the program tracks two drumsticks, with Yellow and Green colored ball attached to the drumsticks, through live webcam video and plays sounds based on simulated air-drumming “hits”.
 
 ### Software Requirements
 
